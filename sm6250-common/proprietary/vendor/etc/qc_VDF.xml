@@ -31,11 +31,9 @@
 	<testitem item_name="otg_in_test" item_action="CitOtgIn" />
 	<testitem item_name="charger_in_test" item_action="ChargeInAndOutActivity" />
 	<testitem item_name="back_camera0" item_action="BackCamera" />
-	<testitem item_name="back_camera1" item_action="BackCamera1" />
 	<testitem item_name="back_camera4" item_action="BackCamera3" />
 	<testitem item_name="back_camera5" item_action="BackCamera4" />
 	<testitem item_name="front_camera" item_action="FrontCamera" />
-	<testitem item_name="back_camera2" item_action="BackCamera2" />
 	<testitem item_name="sar_data_collection" item_action="SarDataCollection" />
 	<testitem item_name="finger" item_action="SensorTestToolActivity" />
 	<testitem item_name="finger_enroll" item_action="FingerprintEnroll" />

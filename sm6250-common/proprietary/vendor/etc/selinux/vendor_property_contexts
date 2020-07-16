@@ -147,6 +147,9 @@ vendor.fastrpc.                  u:object_r:vendor_adsprpc_prop:s0
 # Charge taper term mv prop
 persist.vendor.cp.taper_term_mv      u:object_r:vendor_cp_taper_term_mv_prop:s0
 
+# Charge fcc main ua prop
+persist.vendor.cp.fcc_main_ua      u:object_r:vendor_cp_fcc_main_ua_prop:s0
+
 # Charge quick charge detect prop
 persist.vendor.quick.charge      u:object_r:vendor_quick_charge_prop:s0
 #line 1 "device/qcom/sepolicy/qva/vendor/atoll/property_contexts"

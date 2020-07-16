@@ -3,7 +3,7 @@
   <item name="Config">
     <!--value = 0x80000 + 7001-->
     <param key="QCRIL_OEM_HOOK_REQID" value="531290"/>
-    <!--<param key="SupportSingleSIM"    value="true"/>-->
+    <param key="SupportSingleSIM"    value="true"/>
   </item>
   <item name="LightSensor">
     <param key="BackLightFile" value="/sys/class/backlight/panel0-backlight/brightness"/>
